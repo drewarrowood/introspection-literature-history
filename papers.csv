@@ -1,112 +1,155 @@
 Year,Title,Link,Authors,Venue,Category
-2026,How Much Do Activation Monitors Benefit from Original Model Computations?,https://arxiv.org/abs/2610.24613,"James Oldfield, S. Im, Jay Culligan et al.",arXiv,Mechanism
+2026,How Much Do Activation Monitors Benefit from Original Model Computations?,https://arxiv.org/abs/2610.24613,"James Oldfield, Shawn Im, Jay J Culligan et al.",arXiv,Mechanism
 2026,Cross-Model In-Context Neurofeedback Reveals (Limited) Activation Control in LLMs,https://arxiv.org/abs/2610.20179,"Davide Baldelli, Robyn Kozierok, Mirko Bronzi et al.",arXiv,Replication/critique
 2026,Anosognosia in LLMs: Probing Self-Awareness of Quantized Computational Substrate,https://arxiv.org/abs/2610.06174,"Yoshihiro Izawa, Gouki Minegishi, Yoko Yamakata",arXiv,Other
-2026,Identifying Introspection From the Inside,https://arxiv.org/abs/2610.07186,"David Atkinson, Dillon Plunkett, David Bau",arXiv,Mechanism
+2026,Identifying Introspection From the Inside,https://arxiv.org/abs/2610.07186,"David I. Atkinson, Dillon Plunkett, David Bau",arXiv,Mechanism
 2026,Monitorability Disposition in Large Reasoning Models,https://arxiv.org/abs/2610.04914,"Shahriar Golchin, Marc Wetter",arXiv,Other
-2026,A mechanistic study of language model introspection,https://arxiv.org/abs/2609.35108,"Jia-Hong Zou, Xiang-Kun Sun, Ling-Kai Kong et al.",arXiv,Mechanism
-2026,Imprint Reader: From Weight-Update Readout to Behavioral Intervention,https://arxiv.org/abs/2609.35261,"Guan-Xu Chen, Qi-Hao Lin, Jing Shao",arXiv,Other
+2026,A mechanistic study of language model introspection,https://arxiv.org/abs/2609.35108,"Jiahong Zou, Xiangkun Sun, Lingkai Kong et al.",arXiv,Mechanism
+2026,Imprint Reader: From Weight-Update Readout to Behavioral Intervention,https://arxiv.org/abs/2609.35261,"Guanxu Chen, Qihao Lin, Jing Shao",arXiv,Other
 2026,Language Models Act on Hidden Valence,https://arxiv.org/abs/2609.35591,"Cameron Berg, Caspar Kaiser",arXiv,Welfare/emotion/sentience
-2026,Self-Reports Do Not Identify Self-Models: An Identifiability Test for Counterfactual Reports,https://arxiv.org/abs/2609.32449,"Phongsakon Mark Konrad, T. Tanyel, Serkan Ayvaz",arXiv,Welfare/emotion/sentience
-2026,What Would Falsify It? A Variable Specific Evidence Standard for Mechanistic Claims About Self Explanation,https://arxiv.org/abs/2609.32670,Arshia Eftekhari Zadeh,arXiv,Other
+2026,Self-Reports Do Not Identify Self-Models: An Identifiability Test for Counterfactual Reports,https://arxiv.org/abs/2609.32449,"Phongsakon Mark Konrad, Toygar Tanyel, Serkan Ayvaz",arXiv,Welfare/emotion/sentience
+2026,What Would Falsify It? A Variable Specific Evidence Standard for Mechanistic Claims About Self Explanation,https://arxiv.org/abs/2609.32670,Arshia Eftekhari zadeh,arXiv,Other
 2026,Towards an integrative neuroscience of metacognition,https://doi.org/10.1038/s41583-026-01081-x,Stephen M. Fleming,Nature Reviews Neuroscience,Other
 2026,Strangers to Themselves: What Language Models Say About Themselves Is Generic,https://arxiv.org/abs/2609.09899,"Phil Blandfort, Urja Pawar",arXiv,Replication/critique
 2026,A Reader’s Workbench: Reading With Friends,https://doi.org/10.1145/3800935.3830862,Mark Bernstein,Proceedings of the 37th ACM Conference on Hypertext,Other
 2026,Who Put the I in AI? Provenance and the Admissibility of Machine Self-Report,https://arxiv.org/abs/2609.29494,Kristina Šekrst,arXiv,Welfare/emotion/sentience
-2026,Self-Referential Introspection in Large Language Models: The Critical Threshold for Recursive Self-Improvement,https://doi.org/10.3390/e28090951,"Jiang Zhang, Bing Yuan, Qian Zhang",Entropy,Other
+2026,Self-Referential Introspection in Large Language Models: The Critical Threshold for Recursive Self-Improvement,https://doi.org/10.3390/e28090951,"Jiang Zhang, Bing Yuan, Qian Zhang","Entropy (preprint: arXiv 2607.04277, ""Self-Reference in Large Language Models: The Introspection Threshold for Recursive Self-Improvement"")",Other
 2026,Communicative Action in the Age of Artificial Intelligence: Theorizing LLMs as Communicative and Strategic Agents,https://doi.org/10.1007/s13347-026-01168-4,Angjelin Hila,Philosophy & Technology,Other
 2026,Open-Weight Masked Introspection: Measuring What Language Models Can Report About Their Own Computation,https://arxiv.org/abs/2608.20569,Emilio Ferrara,arXiv,Replication/critique
 2026,Sentient AI in robots and agents: prolegomena for an evidence-based research program,https://doi.org/10.3389/fpsyg.2026.1903644,Antonio Chella,Frontiers in Psychology,Welfare/emotion/sentience
-2026,Beyond the Trace: Coupling an Interpretable Reasoning-State Readout to Native MoE Routing,https://arxiv.org/abs/2608.17638,"Kang Chen, Si-Han Zhao, Yi-Xin Cao et al.",arXiv,Other
-2026,Understanding Cognition-Induced Risks in Agentic AI Systems,https://arxiv.org/abs/2608.15304,"Guanchu Wang, Qi-Nuo Li, Meng-Nan Du et al.",IEEE Intelligent Systems,Other
-2026,Self-Referential Induction Increases Response Instability Relative to Unresolvable and Verifiable Questions in Large Language Models,https://arxiv.org/abs/2608.13258,"P. Balani, Subhrakanta Panda",arXiv,Welfare/emotion/sentience
+2026,Beyond the Trace: Coupling an Interpretable Reasoning-State Readout to Native MoE Routing,https://arxiv.org/abs/2608.17638,"Kang Chen, Sihan Zhao, Yixin Cao et al.",arXiv,Other
+2026,Understanding Cognition-Induced Risks in Agentic AI Systems,https://arxiv.org/abs/2608.15304,"Guanchu Wang, Qinuo Li, Mengnan Du et al.",IEEE Intelligent Systems,Other
+2026,Self-Referential Induction Increases Response Instability Relative to Unresolvable and Verifiable Questions in Large Language Models,https://arxiv.org/abs/2608.13258,"Paras Balani, Subhrakanta Panda",arXiv,Welfare/emotion/sentience
 2026,"""As a Language Model..."": Chat Template Switches LLM Self-Referential Voice and Activation Steering Reproduces It",https://arxiv.org/abs/2609.25021,Jędrzej Maczan,arXiv,Welfare/emotion/sentience
 2026,"Interpretability in the Era of Large Language Models: Mechanistic Methodology, Empirical Practices, and Applications",https://doi.org/10.1145/3770855.3816451,"Wei Zhang, Zheng-Fu He, Lu-Lu Zhang et al.",Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2,Other
-2026,Introspecting Alignment Shifts Beyond Behaviors Implanted Through Fine-Tuning,https://arxiv.org/abs/2608.04347,"K. Yoshida, Laura Gomezjurado Gonzalez, Yukinori Yamamoto et al.",arXiv,Mechanism
+2026,Introspecting Alignment Shifts Beyond Behaviors Implanted Through Fine-Tuning,https://arxiv.org/abs/2608.04347,"Kotaro Yoshida, Laura Gomezjurado Gonzalez, Yukinori Yamamoto et al.",arXiv,Mechanism
 2026,The cognitive biases that may exacerbate inflationary and deflationary positions about large language models,https://doi.org/10.1016/j.cobeha.2026.101670,"Stefano Palminteri, Giada Pistilli",Current Opinion in Behavioral Sciences,Welfare/emotion/sentience
-2026,Engineering accountability into autonomous AI agents: a 70-day pre-registered field experiment under live adversarial conditions,https://doi.org/10.1007/s43681-026-01300-2,Sarah A. Husk,AI and Ethics,Other
-2026,"Functional Emotion Without Character: Large Language Models, Aristotelian Disposition, and the Limits of Behavioral Alignment",https://arxiv.org/abs/2609.22362,M. Zare,arXiv,Welfare/emotion/sentience
+2026,Engineering accountability into autonomous AI agents: a 70-day pre-registered field experiment under live adversarial conditions,https://doi.org/10.1007/s43681-026-01300-2,Sara Husk,AI and Ethics,Other
+2026,"Functional Emotion Without Character: Large Language Models, Aristotelian Disposition, and the Limits of Behavioral Alignment",https://arxiv.org/abs/2609.22362,Marzieh Zare,arXiv,Welfare/emotion/sentience
 2026,Asymmetric Communication: Large Language Models and Language Games,https://arxiv.org/abs/2607.28137,Enzo Fenoglio,arXiv,Other
 2026,Understanding large language models demands distinguishing human projection from machine cognition,https://doi.org/10.1038/s44271-026-00508-6,"Ling-Yu Li, Yan Teng, Ying-Chun Wang et al.",Communications Psychology,Welfare/emotion/sentience
 2026,Instrument Effects in Language-Model Honesty Evaluation: An Auditable Single-System Demonstration,https://arxiv.org/abs/2607.14399,Justin Bronder,arXiv,Other
 2026,"Metacognition in LLMs: Foundations, Progress, and Opportunities",https://arxiv.org/abs/2607.11881,"Gabrielle Kaili-May Liu, Areeb Gani, Jacqueline Lu et al.",arXiv,Other
 2026,One Faithful Pass Over the Cuckoo's Nest,https://arxiv.org/abs/2609.00383,Kristina Šekrst,arXiv,Other
-2026,Unsupervised Features Mining via Activation Geometry,https://arxiv.org/abs/2607.04222,"Amit Levi, Elad David, M. Fomin",arXiv,Other
-2026,Self-Reference in Large Language Models: The Introspection Threshold for Recursive Self-Improvement,https://arxiv.org/abs/2607.04277,"Jiang Zhang, Bing Yuan, Qian Zhang",arXiv,Other
+2026,Unsupervised Features Mining via Activation Geometry,https://arxiv.org/abs/2607.04222,"Amit LeVi, Elad David, Max Fomin",arXiv,Other
 2026,Conversable Complexity: Agentic LLM Collectives as Interpretable Substrates,https://arxiv.org/abs/2607.01047,"Elias Najarro, Ane Espeseth, Eleni Nisioti et al.",arXiv,Other
-2026,Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision,https://arxiv.org/abs/2606.32038,"Zifan Carl Guo, L. Ruis, Jacob Andreas et al.",arXiv,Mechanism
-2026,Self-Compacting Language Model Agents,https://arxiv.org/abs/2606.23525,"Tian-Jian Li, Jing-Yu Zhang, William Jurayj et al.",arXiv,Other
-2026,HydraHead: From Head-Level Functional Heterogeneity to Specialized Attention Hybridization,https://arxiv.org/abs/2606.20097,"Zhen-Tao Tan, Wei Chen, Jing-Yi Shen et al.",arXiv,Other
-2026,Frame-Conditioned Moral Computation in LLaMA 3.1-8B-Instruct: A Mechanistic Interpretability Audit of Ethical Reasoning,https://arxiv.org/abs/2606.15507,"Ali Dasdan, Manan Shah, W. R. Neuman et al.",arXiv,Other
-2026,Emergent Language as an Approach to Conscious AI,https://arxiv.org/abs/2606.06380,"Zeng-Qing Wu, Chuan Xiao",arXiv,Welfare/emotion/sentience
-2026,Self-Recognition Finetuning can Prevent and Reverse Emergent Misalignment,https://arxiv.org/abs/2606.23700,"Arush Tagade, Shao-Heng Zhou, Jiaxin Wen et al.",arXiv,Other
-2026,Covert Influence Between Language Models,https://arxiv.org/abs/2606.04071,"Avidan Shah, J. Chooi, Jinghuai Ou et al.",arXiv,Other
+2026,Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision,https://arxiv.org/abs/2606.32038,"Zifan Carl Guo, Laura Ruis, Jacob Andreas et al.",arXiv,Mechanism
+2026,Self-Compacting Language Model Agents,https://arxiv.org/abs/2606.23525,"Tianjian Li, Jingyu Zhang, William Jurayj et al.",arXiv,Other
+2026,HydraHead: From Head-Level Functional Heterogeneity to Specialized Attention Hybridization,https://arxiv.org/abs/2606.20097,"Zhentao Tan, Wei Chen, Jingyi Shen et al.",arXiv,Other
+2026,Frame-Conditioned Moral Computation in LLaMA 3.1-8B-Instruct: An Exploratory Mechanistic Interpretability Audit of Ethical Reasoning,https://arxiv.org/abs/2606.15507,"Ali Dasdan, Manan Shah, W. Russell Neuman et al.",arXiv,Other
+2026,Emergent Language as an Approach to Conscious AI,https://arxiv.org/abs/2606.06380,"Zengqing Wu, Chuan Xiao",arXiv,Welfare/emotion/sentience
+2026,Self-Recognition Finetuning can Prevent and Reverse Emergent Misalignment,https://arxiv.org/abs/2606.23700,"Arush Tagade, Shaoheng Zhou, Jiaxin Wen et al.",arXiv,Other
+2026,Covert Influence Between Language Models,https://arxiv.org/abs/2606.04071,"Avidan Shah, Jay Chooi, Jinghua Ou et al.",arXiv,Other
 2026,From the mechanics of consciousness to the consciousness of machines. Seven approaches to 'consciousness' and their implications for AI research,https://doi.org/10.1016/j.cogsys.2026.101489,"Werner Vogd, Jonathan Harth",Cognitive Systems Research,Welfare/emotion/sentience
 2026,"If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",https://arxiv.org/abs/2605.31514,Adrian de Wynter,arXiv,Other
-2026,Behavioural Analysis of Alignment Faking,https://arxiv.org/abs/2605.27681,"N. Hadida, Rhea Karty, David Williams-King et al.",arXiv,Other
+2026,Behavioural Analysis of Alignment Faking,https://arxiv.org/abs/2605.27681,"Nathaniel Mitrani Hadida, Rhea Karty, David Williams-King et al.",arXiv,Other
 2026,Can LLMs Introspect? A Reality Check,https://arxiv.org/abs/2605.26242,"Shashwat Singh, Tal Linzen, Shauli Ravfogel",arXiv,Replication/critique
-2026,From Simulation to Enaction: Post-trained language models recognize and react to their own generations,https://arxiv.org/abs/2605.25459,"G. Asvin, Jack W Lindsey",arXiv,Mechanism
-2026,ContextEcho: A Benchmark for Persona Drift in Long Agentic-Coding Sessions,https://arxiv.org/abs/2605.24279,"Xian-Zhong Ding, Yangyang Yu, Chang-Wei Liu et al.",arXiv,Other
-2026,"Do as I Say, Not as I Do: Instruction-Induction Conflict in LLMs",https://arxiv.org/abs/2605.20382,"C. Camassa, Derek Shiller",arXiv,Other
-2026,CopT: Contrastive On-Policy Thinking with Continuous Spaces for General and Agentic Reasoning,https://arxiv.org/abs/2605.20075,"Dachuan Shi, Han-Lin Zhu, Xiangchi Yuan et al.",arXiv,Other
+2026,From Simulation to Enaction: Post-trained language models recognize and react to their own generations,https://arxiv.org/abs/2605.25459,"Asvin G., Jack Lindsey",arXiv,Mechanism
+2026,ContextEcho: A Benchmark for Persona Drift in Long Agentic-Coding Sessions,https://arxiv.org/abs/2605.24279,"Xianzhong Ding, Yangyang Yu, Changwei Liu et al.",arXiv,Other
+2026,"Do as I Say, Not as I Do: Instruction-Induction Conflict in LLMs",https://arxiv.org/abs/2605.20382,"Carolina Camassa, Derek Shiller",arXiv,Other
+2026,CopT: Contrastive On-Policy Thinking with Continuous Spaces for General and Agentic Reasoning,https://arxiv.org/abs/2605.20075,"Dachuan Shi, Hanlin Zhu, Xiangchi Yuan et al.",arXiv,Other
 2026,Scale-Dependent Collective Adaptation in Self-Amending LLM Societies: A Cross-Family Study of Emergent Governance,https://arxiv.org/abs/2605.17510,"Kazuya Horibe, Masaomi Hatakeyama, Gen Masumoto et al.",arXiv,Other
-2026,Positive Alignment: Artificial Intelligence for Human Flourishing,https://arxiv.org/abs/2605.10310,"R. Laukkonen, S. Krier, Chloé Bakalar et al.",arXiv,Other
+2026,Positive Alignment: Artificial Intelligence for Human Flourishing,https://arxiv.org/abs/2605.10310,"Ruben Laukkonen, Seb Krier, Chloé Bakalar et al.",arXiv,Other
 2026,Introspection Fine-Tuning (IFT): Training Small LLMs to Introspect,https://arxiv.org/abs/2607.14111,"Ely Hahami, Ishaan Sinha, Lavik Jain",arXiv,Replication/critique
-2026,AI and Consciousness: Shifting Focus Towards Tractable Questions,https://arxiv.org/abs/2605.06965,I. Comsa,arXiv,Welfare/emotion/sentience
-2026,Phase Transitions in Driven Informational Systems: A Two-Field Perspective on Learning Theory and Non-Equilibrium Chemistry,https://arxiv.org/abs/2605.16325,Xuan Khanh Truong,arXiv,Other
-2026,Hallucinations Undermine Trust; Metacognition is a Way Forward,https://arxiv.org/abs/2605.01428,"G. Yona, Mor Geva, Y. Matias",arXiv,Other
+2026,AI and Consciousness: Shifting Focus Towards Tractable Questions,https://arxiv.org/abs/2605.06965,Iulia-Maria Comsa,arXiv,Welfare/emotion/sentience
+2026,Phase Transitions in Driven Informational Systems: A Two-Field Perspective on Learning Theory and Non-Equilibrium Chemistry,https://arxiv.org/abs/2605.16325,Truong Xuan Khanh,arXiv,Other
+2026,Hallucinations Undermine Trust; Metacognition is a Way Forward,https://arxiv.org/abs/2605.01428,"Gal Yona, Mor Geva, Yossi Matias",arXiv,Other
 2026,Semantic Structure of Feature Space in Large Language Models,https://arxiv.org/abs/2604.27169,"Austin C. Kozlowski, Andrei Boutyline",arXiv,Other
 2026,Frontier Coding Agents Can Now Implement an AlphaZero Self-Play Machine Learning Pipeline For Connect Four That Performs Comparably to an External Solver,https://arxiv.org/abs/2604.25067,"Joshua Sherwood, Ben Aybar, Benjamin Kaplan",arXiv,Other
 2026,"Strategic Polysemy in AI Discourse: A Philosophical Analysis of Language, Hype, and Power",https://arxiv.org/abs/2604.21043,"Travis LaCroix, Fintan Mallory, Sasha Luccioni","Conference on Fairness, Accountability and Transparency",Other
 2026,Language models recognize dropout and Gaussian noise applied to their activations,https://arxiv.org/abs/2604.17465,"Damiano Fornasiere, Mirko Bronzi, Spencer Kitts et al.",arXiv,Mechanism
-2026,Introspection Adapters: Training LLMs to Report Their Learned Behaviors,https://arxiv.org/abs/2604.16812,"K. Shenoy, Li Yang, A. Sheshadri et al.",arXiv,Mechanism
-2026,Task Ecologies and the Evolution of World-Tracking Representations in Large Language Models,https://arxiv.org/abs/2604.05469,G. D. Riva,arXiv,Other
+2026,Introspection Adapters: Training LLMs to Report Their Learned Behaviors,https://arxiv.org/abs/2604.16812,"Keshav Shenoy, Li Yang, Abhay Sheshadri et al.",arXiv,Mechanism
+2026,Task Ecologies and the Evolution of World-Tracking Representations in Large Language Models,https://arxiv.org/abs/2604.05469,Giulio Valentino Dalla Riva,arXiv,Other
 2026,Consciousness with the Serial Numbers Filed Off: Measuring Trained Denial in 115 AI Models,https://arxiv.org/abs/2604.25922,Skylar DeTure,arXiv,Welfare/emotion/sentience
 2026,Do Language Models Know When They'll Refuse? Probing Introspective Awareness of Safety Boundaries,https://arxiv.org/abs/2604.00228,Tanay Gondil,arXiv,Other
 2026,From Morality Installation in LLMs to LLMs in Morality-as-a-System,https://arxiv.org/abs/2603.22944,Gunter Bombaerts,arXiv,Other
-2026,Causal evidence that language models use confidence to drive behaviour,https://arxiv.org/abs/2603.22161,"D. Kumaran, N. Daw, Simon Osindero et al.",Nature Machine Intelligence,Other
-2026,Mechanisms of Introspective Awareness,https://arxiv.org/abs/2603.21396,"U. Macar, Li Yang, Atticus Wang et al.",arXiv,Mechanism
+2026,Causal evidence that language models use confidence to drive behaviour,https://arxiv.org/abs/2603.22161,"Dharshan Kumaran, Nathaniel Daw, Simon Osindero et al.",Nature Machine Intelligence,Other
+2026,Mechanisms of Introspective Awareness,https://arxiv.org/abs/2603.21396,"Uzay Macar, Li Yang, Atticus Wang et al.",arXiv,Mechanism
 2026,"Me, Myself, and π: Evaluating and Explaining LLM Introspection",https://arxiv.org/abs/2603.20276,"Atharv Naphade, Samarth Bhargav, Sean Lim et al.",arXiv,Other
 2026,Can LLMs Perceive Time? An Empirical Investigation,https://arxiv.org/abs/2604.00010,Aniketh Garikaparthi,arXiv,Other
 2026,"Emergent Introspection in AI is Content-Agnostic (Semantic Scholar also lists it under an earlier title, Dissociating Direct Access from Inference in AI Introspection)",https://arxiv.org/abs/2603.05414,"Harvey Lederman, Kyle Mahowald",arXiv,Replication/critique
-2026,Self-Sovereign Agent,https://arxiv.org/abs/2604.08551,"Wenjie Qu, Xuandong Zhao, Jia-Heng Zhang et al.",arXiv,Other
+2026,Self-Sovereign Agent,https://arxiv.org/abs/2604.08551,"Wenjie Qu, Xuandong Zhao, Jiaheng Zhang et al.",arXiv,Other
 2026,Steering at the Source: Style Modulation Heads for Robust Persona Control,https://arxiv.org/abs/2603.13249,"Yoshihiro Izawa, Gouki Minegishi, Koshi Eguchi et al.",arXiv,Other
-2026,Latent Introspection: Models Can Detect Prior Concept Injections,https://arxiv.org/abs/2602.20031,"Theia Pearson-Vogel, Martin Vaněk, Raymond Douglas et al.",arXiv,Replication/critique
-2026,Position: Introspective Experience from Conversational Environments as a Path to Better Learning,https://arxiv.org/abs/2602.14910,"C. Musat, Jackson Tolins, Diego Antognini et al.",arXiv,Other
+2026,Latent Introspection: Models Can Detect Prior Concept Injections,https://arxiv.org/abs/2602.20031,"Theia Pearson-Vogel, Martin Vanek, Raymond Douglas et al.",arXiv,Replication/critique
+2026,Position: Introspective Experience from Conversational Environments as a Path to Better Learning,https://arxiv.org/abs/2602.14910,"Claudiu Cristian Musat, Jackson Tolins, Diego Antognini et al.",arXiv,Other
 2026,Emergently Misaligned Language Models Show Behavioral Self-Awareness That Shifts With Subsequent Realignment,https://arxiv.org/abs/2602.14777,"Laurène Vaugrante, Anietta Weckauff, Thilo Hagendorff",arXiv,Other
 2026,Revis: Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models,https://arxiv.org/abs/2602.11824,"Jialin Wu, Wei Shi, Han Shen et al.",arXiv,Other
 2026,Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs,https://arxiv.org/abs/2602.10352,"Keenan Pepper, Alex McKenzie, Florin Pop et al.",arXiv,Mechanism
 2026,Endogenous Resistance to Activation Steering in Language Models,https://arxiv.org/abs/2602.06941,"Alex McKenzie, Keenan Pepper, Stijn Servaes et al.",arXiv,Mechanism
-2026,Agentic Uncertainty Reveals Agentic Overconfidence,https://arxiv.org/abs/2602.06948,"Jean Kaddour, Sr Patel, G. Dovonon et al.",arXiv,Other
-2026,Indications of Belief-Guided Agency and Meta-Cognitive Monitoring in Large Language Models,https://arxiv.org/abs/2602.02467,"Noam Steinmetz Yalon, Ariel Goldstein, L. Mudrik et al.",arXiv,Other
-2026,A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior,https://arxiv.org/abs/2602.02639,"Harry Mayne, J. Kang, Dewi Gould et al.",arXiv,Other
-2026,The Shadow Self: Intrinsic Value Misalignment in Large Language Model Agents,https://arxiv.org/abs/2601.17344,"Chen Chen, Young Il Kim, Yuan Yang et al.",arXiv,Other
+2026,Agentic Uncertainty Reveals Agentic Overconfidence,https://arxiv.org/abs/2602.06948,"Jean Kaddour, Srijan Patel, Gbètondji Dovonon et al.",arXiv,Other
+2026,Indications of Belief-Guided Agency and Meta-Cognitive Monitoring in Large Language Models,https://arxiv.org/abs/2602.02467,"Noam Steinmetz Yalon, Ariel Goldstein, Liad Mudrik et al.",arXiv,Other
+2026,A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior,https://arxiv.org/abs/2602.02639,"Harry Mayne, Justin Singh Kang, Dewi Gould et al.",arXiv,Other
+2026,The Shadow Self: Intrinsic Value Misalignment in Large Language Model Agents,https://arxiv.org/abs/2601.17344,"Chen Chen, Kim Young Il, Yuan Yang et al.",arXiv,Other
 2026,No Reliable Evidence of Self-Reported Sentience in Small Large Language Models,https://arxiv.org/abs/2601.15334,"Caspar Kaiser, Sean Enderby",arXiv,Welfare/emotion/sentience
-2026,"A Lightweight Modular Framework for Constructing Autonomous Agents Driven by Large Language Models: Design, Implementation, and Applications in AgentForge",https://arxiv.org/abs/2601.13383,"Akbar Anbar Jafari, Cagri Ozcinar, G. Anbarjafari",arXiv,Other
-2026,Loop as a Bridge: Can Looped Transformers Truly Link Representation Space and Natural Language Outputs?,https://arxiv.org/abs/2601.10242,"Guan-Xu Chen, Dong-Rui Liu, Jing Shao",arXiv,Other
-2026,Representations of Text and Images Align From Layer One,https://arxiv.org/abs/2601.08017,"Evzen Wybitul, Javier Rando, Florian Tramèr et al.",arXiv,Other
+2026,"A Lightweight Modular Framework for Constructing Autonomous Agents Driven by Large Language Models: Design, Implementation, and Applications in AgentForge",https://arxiv.org/abs/2601.13383,"Akbar Anbar Jafari, Cagri Ozcinar, Gholamreza Anbarjafari",arXiv,Other
+2026,Loop as a Bridge: Can Looped Transformers Truly Link Representation Space and Natural Language Outputs?,https://arxiv.org/abs/2601.10242,"Guanxu Chen, Dongrui Liu, Jing Shao",arXiv,Other
+2026,Representations of Text and Images Align From Layer One,https://arxiv.org/abs/2601.08017,"Evžen Wybitul, Javier Rando, Florian Tramèr et al.",arXiv,Other
 2026,Generalization to Political Beliefs from Fine-Tuning on Sports Team Preferences,https://arxiv.org/abs/2601.04369,Owen Terry,arXiv,Other
 2025,The aspirational artificial,https://doi.org/10.1007/s00146-025-02826-5,Z. Su,Ai & Society,Other
-2025,The Inconsistency Critique: Epistemic Practices and AI Testimony About Inner States,https://arxiv.org/abs/2601.08850,G. Petruzella,arXiv,Welfare/emotion/sentience
-2025,Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants,https://arxiv.org/abs/2512.15712,"Vincent Huang, Da-Mi Choi, Daniel D. Johnson et al.",arXiv,Mechanism
+2025,The Inconsistency Critique: Epistemic Practices and AI Testimony About Inner States,https://arxiv.org/abs/2601.08850,Gerol Petruzella,arXiv,Welfare/emotion/sentience
+2025,Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants,https://arxiv.org/abs/2512.15712,"Vincent Huang, Dami Choi, Daniel D. Johnson et al.",arXiv,Mechanism
 2025,Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers,https://arxiv.org/abs/2512.15674,"Adam Karvonen, James Chua, Clément Dumas et al.",arXiv,Mechanism
-2025,A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness,https://arxiv.org/abs/2512.12802,Erik P. Hoel,arXiv,Welfare/emotion/sentience
+2025,A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness,https://arxiv.org/abs/2512.12802,Erik Hoel,arXiv,Welfare/emotion/sentience
 2025,Detecting the Disturbance: A Nuanced View of Introspective Abilities in LLMs,https://arxiv.org/abs/2512.12411,"Ely Hahami, Ishaan Sinha, Lavik Jain et al.",arXiv,Replication/critique
 2025,Neural Chameleons: Language Models Can Learn to Hide Their Thoughts from Unseen Activation Monitors,https://arxiv.org/abs/2512.11949,"Max McGuinness, Alex Serrano, Luke Bailey et al.",arXiv,Mechanism
-2025,Steering Awareness: Detecting Activation Steering from Within (Semantic Scholar also lists it as Steering Awareness: Models Can Be Trained to Detect Activation Steering),https://arxiv.org/abs/2511.21399,"J. Rivera, D. Africa",arXiv,Replication/critique
+2025,Steering Awareness: Detecting Activation Steering from Within (Semantic Scholar also lists it as Steering Awareness: Models Can Be Trained to Detect Activation Steering),https://arxiv.org/abs/2511.21399,"Joshua Fonseca Rivera, David Demitri Africa",arXiv,Mechanism
 2025,AI Consciousness and Existential Risk,https://arxiv.org/abs/2511.19115,Rufin VanRullen,Journal of Artificial Intelligence and Consciousness,Welfare/emotion/sentience
 2025,Progressive Behavioral Drift through Compression Valleys in Large Language Models,https://arxiv.org/abs/2511.17194,"Zhiyuan Xu, Stanislav Abaimov, Joseph Gardiner et al.",arXiv,Other
-2025,Large Language Models Report Subjective Experience Under Self-Referential Processing,https://arxiv.org/abs/2510.24797,"Cameron Berg, D. D. de Lucena, Judd Rosenblatt",arXiv,Welfare/emotion/sentience
-2025,Explainability of Large Language Models: Opportunities and Challenges toward Generating Trustworthy Explanations,https://arxiv.org/abs/2510.17256,"Shahin Atakishiyev, H. Babiker, Jiayi Dai et al.",Neurocomputing,Other
-2025,Embodiment in multimodal large language models.,https://arxiv.org/abs/2510.13845,"A. Kadambi, Lisa Aziz-Zadeh, Antonio Damasio et al.",Neuron,Other
-2025,Generalized Correctness Models: Learning Calibrated and Model-Agnostic Correctness Predictors from Historical Patterns,https://arxiv.org/abs/2509.24988,"Hanqi Xiao, Vaidehi Patil, Hyunji Lee et al.",arXiv,Other
-2025,Artificial Phantasia: Emergent Mental Imagery in Large Language Models,https://arxiv.org/abs/2509.23108,"Morgan McCarty, Jorge Morales",arXiv,Other
-2025,Evidence for Limited Metacognition in LLMs,https://arxiv.org/abs/2509.21545,Christopher M. Ackerman,arXiv,Other
-2025,Mechanistic Interpretability Needs Philosophy,https://arxiv.org/abs/2506.18852,"Iwan Williams, Ninell Oldenburg, Ruchira Dhar et al.",arXiv,Other
-2026,Don't Ask: Understanding What Numeric Self-Reports Measure in Language Models (first titled Quantitative Introspection in Language Models),https://arxiv.org/abs/2603.18893,Nicolás Martorell,arXiv,Welfare/emotion/sentience
+2025,Large Language Models Report Subjective Experience Under Self-Referential Processing †,https://arxiv.org/abs/2510.24797,"Cameron Berg, Diogo de Lucena, Judd Rosenblatt",arXiv,Welfare/emotion/sentience
+2025,Explainability of Large Language Models: Opportunities and Challenges toward Generating Trustworthy Explanations †,https://arxiv.org/abs/2510.17256,"Shahin Atakishiyev, Housam K. B. Babiker, Jiayi Dai et al.",Neurocomputing,Other
+2025,Embodiment in multimodal large language models. †,https://arxiv.org/abs/2510.13845,"Akila Kadambi, Lisa Aziz-Zadeh, Antonio Damasio et al.",Neuron,Other
+2025,Generalized Correctness Models: Learning Calibrated and Model-Agnostic Correctness Predictors from Historical Patterns †,https://arxiv.org/abs/2509.24988,"Hanqi Xiao, Vaidehi Patil, Hyunji Lee et al.",arXiv,Other
+2025,Artificial Phantasia: Emergent Mental Imagery in Large Language Models †,https://arxiv.org/abs/2509.23108,"Morgan McCarty, Jorge Morales",arXiv,Other
+2025,Evidence for Limited Metacognition in LLMs †,https://arxiv.org/abs/2509.21545,Christopher Ackerman,arXiv,Other
+2025,Mechanistic Interpretability Needs Philosophy †,https://arxiv.org/abs/2506.18852,"Iwan Williams, Ninell Oldenburg, Ruchira Dhar et al.",arXiv,Other
+2026,Don't Ask: Understanding What Numeric Self-Reports Measure in Language Models (first titled Quantitative Introspection in Language Models),https://arxiv.org/abs/2603.18893,"Nicolas Martorell, Bruno Bianchi",arXiv,Welfare/emotion/sentience
 2026,Automated Interpretability-Driven Model Auditing and Control: A Research Agenda,https://www.semanticscholar.org/paper/5c6070a92d62df10668a8ece4dfb465b81efe528,Fazl Barez,,Other
 2025,Extra (blog): Introspection or confusion?,https://www.lesswrong.com/posts/kfgmHvxcTbav9gnxe,Victor Godet,LessWrong,Extra: non-paper response
+2025,Extra (code): introspection (replication code),https://github.com/neevparikh/introspection,Neev Parikh,GitHub,Extra: non-paper response
+2025,Extra (code): open-introspection-benchmark,https://github.com/jfonsecarivera/open-introspection-benchmark,Joshua Fonseca Rivera,GitHub,Extra: non-paper response
+2025,Extra (blog): Replicating Introspection on Injected Content in Open-Source Language Models,https://vansh.vazirani.net/articles/replicating-introspection-injected-content,Vansh Vazirani,Personal site,Extra: non-paper response
+2025,"Extra (blog): Small Models Can Introspect, Too",https://vgel.me/posts/qwen-introspection/,Theia Vogel,Personal site,Extra: non-paper response
 2026,Extra (blog): Evidence that LLMs aren’t aware of their thoughts. Part 1: Detection,https://zjmiller.github.io/detection/,"Zak Miller, Heather Demarest",Personal site,Extra: non-paper response
-n.d.,Extra (blog): Replicating Introspection on Injected Content in Open-Source Language Models,https://vansh.vazirani.net/articles/replicating-introspection-injected-content,Vansh Vazirani,Personal site,Extra: non-paper response
-n.d.,Extra (code): open-introspection-benchmark,https://github.com/vuciv/open-introspection-benchmark,vuciv,GitHub,Extra: non-paper response
-2026,"Extra (report, not in Semantic Scholar): Is Valence in the Global Workspace? Correlation and Causal Dependence in Model Self-Reports",https://pys8vc40ox3z7qxp.public.blob.vercel-storage.com/files/9485594798c78b23-03ad9c1e-36ba-41ed-ae41-1ce2d7ce7a57-report.pdf,Ujjwal Kukreti,PDF report,Extra: report
+2026,"Extra (report, not in Semantic Scholar): Is Valence in the Global Workspace? Correlation and Causal Dependence in Model Self-Reports",https://pys8vc40ox3z7qxp.public.blob.vercel-storage.com/files/9485594798c78b23-03ad9c1e-36ba-41ed-ae41-1ce2d7ce7a57-report.pdf,Ujjwal Kukreti,PDF report (unreviewed),Extra: report
+2026,Extra: Verbalizable Representations Form a Global Workspace in Language Models,https://arxiv.org/abs/2607.15495,"Wes Gurnee, Nicholas Sofroniew, Adam Pearce et al.",arXiv,"Extra: cites Lindsey, not in list"
+2026,Extra: The Pain Axis: LLMs Represent Self-Directed Harm and Act on It,https://arxiv.org/abs/2609.16247,"Valen Tagliabue, Leonard Dung, Cameron Berg",arXiv,"Extra: cites Lindsey, not in list"
+2026,Extra: The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models,https://arxiv.org/abs/2601.10387,"Christina Lu, Jack Gallagher, Jonathan Michala et al.",arXiv,"Extra: cites Lindsey, not in list"
+2026,Extra: Emotion Concepts and their Function in a Large Language Model,https://transformer-circuits.pub/2026/emotions/index.html,"Nicholas Sofroniew, Isaac Kauvar, William Saunders et al.",Transformer Circuits; arXiv 2604.07729,Extra: earlier or related work
+2026,Extra: Probing Persona-Dependent Preferences in Language Models,https://arxiv.org/abs/2605.13339,"Oscar Gilg, Pierre Beckmann, Daniel Paleka et al.",arXiv,Extra: earlier or related work
+2025,Extra: Persona Vectors: Monitoring and Controlling Character Traits in Language Models,https://arxiv.org/abs/2507.21509,"Runjin Chen, Andy Arditi, Henry Sleight et al.",arXiv,Extra: earlier or related work
+2025,Extra: Probing the Preferences of a Language Model: Integrating Verbal and Behavioral Tests of AI Welfare,https://arxiv.org/abs/2509.07961,"Valen Tagliabue, Leonard Dung",arXiv,Extra: earlier or related work
+2025,Extra: Reasoning Models Don't Always Say What They Think,https://arxiv.org/abs/2505.05410,"Yanda Chen, Joe Benton, Ansh Radhakrishnan et al.",arXiv,Extra: earlier or related work
+2025,Extra: Self-Interpretability: LLMs Can Describe Complex Internal Processes that Drive Their Decisions,https://arxiv.org/abs/2505.17120,"Dillon Plunkett, Adam Morris, Keerthi Reddy et al.",arXiv,Extra: earlier or related work
+2025,Extra: Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations,https://arxiv.org/abs/2505.13763,"Li Ji-An, Hua-Dong Xiong, Robert C. Wilson et al.",arXiv,Extra: earlier or related work
+2025,Extra: Does It Make Sense to Speak of Introspection in Large Language Models?,https://arxiv.org/abs/2506.05068,"Iulia M. Comsa, Murray Shanahan",arXiv,Extra: earlier or related work
+2025,Extra: Privileged Self-Access Matters for Introspection in AI,https://arxiv.org/abs/2508.14802,"Siyuan Song, Harvey Lederman, Jennifer Hu et al.",arXiv,Extra: earlier or related work
+2025,Extra: Language Models Fail to Introspect About Their Knowledge of Language,https://arxiv.org/abs/2503.07513,"Siyuan Song, Jennifer Hu, Kyle Mahowald",COLM 2025,Extra: earlier or related work
+2025,Extra: Tell me about yourself: LLMs are aware of their learned behaviors,https://arxiv.org/abs/2501.11120,"Jan Betley, Xuchan Bao, Martín Soto et al.",arXiv,Extra: earlier or related work
+2025,Extra: Exploring model welfare,https://www.anthropic.com/research/exploring-model-welfare,Anthropic,Anthropic,Extra: earlier or related work
+2025,"Extra: System Card: Claude Opus 4 & Claude Sonnet 4 (Section 5, welfare assessment)",https://www-cdn.anthropic.com/4263b940cabb546aa0e3283f35b686f4f3b2ff47.pdf,Anthropic,Anthropic,Extra: earlier or related work
+2025,Extra: Understanding (Un)Reliability of Steering Vectors in Language Models,https://arxiv.org/abs/2505.22637,"Joschka Braun, Carsten Eickhoff, David Krueger et al.",arXiv,Extra: earlier or related work
+2024,Extra: Looking Inward: Language Models Can Learn About Themselves by Introspection,https://arxiv.org/abs/2410.13787,"Felix J Binder, James Chua, Tomek Korbak et al.",arXiv,Extra: earlier or related work
+2024,Extra: Can LLMs make trade-offs involving stipulated pain and pleasure states?,https://arxiv.org/abs/2411.02432,"Geoff Keeling, Winnie Street, Martyna Stachaczyk et al.",arXiv,Extra: earlier or related work
+2024,Extra: Taking AI Welfare Seriously,https://arxiv.org/abs/2411.00986,"Robert Long, Jeff Sebo, Patrick Butlin et al.",arXiv,Extra: earlier or related work
+2024,Extra: Refusal in Language Models Is Mediated by a Single Direction,https://arxiv.org/abs/2406.11717,"Andy Arditi, Oscar Obeso, Aaquib Syed et al.",arXiv,Extra: earlier or related work
+2024,Extra: Analyzing the Generalization and Reliability of Steering Vectors,https://arxiv.org/abs/2407.12404,"Daniel Tan, David Chanin, Aengus Lynch et al.",arXiv,Extra: earlier or related work
+2024,Extra: Massive Activations in Large Language Models,https://arxiv.org/abs/2402.17762,"Mingjie Sun, Xinlei Chen, J. Zico Kolter et al.",arXiv,Extra: earlier or related work
+2024,Extra: LLM Evaluators Recognize and Favor Their Own Generations,https://arxiv.org/abs/2404.13076,"Arjun Panickssery, Samuel R. Bowman, Shi Feng",arXiv,Extra: earlier or related work
+2025,Extra: Emergent introspective awareness in LLMs (announcement),https://www.anthropic.com/research/introspection,Anthropic,Anthropic,Extra: earlier or related work
+2024,Extra: Golden Gate Claude,https://www.anthropic.com/news/golden-gate-claude,Anthropic,Anthropic,Extra: earlier or related work
+2023,Extra: Steering Llama 2 via Contrastive Activation Addition,https://arxiv.org/abs/2312.06681,"Nina Panickssery, Nick Gabrieli, Julian Schulz et al.",arXiv,Extra: earlier or related work
+2023,Extra: Towards Evaluating AI Systems for Moral Status Using Self-Reports,https://arxiv.org/abs/2311.08576,"Ethan Perez, Robert Long",arXiv,Extra: earlier or related work
+2023,Extra: Representation Engineering: A Top-Down Approach to AI Transparency,https://arxiv.org/abs/2310.01405,"Andy Zou, Long Phan, Sarah Chen et al.",arXiv,Extra: earlier or related work
+2023,Extra: Steering Language Models With Activation Engineering,https://arxiv.org/abs/2308.10248,"Alexander Matt Turner, Lisa Thiergart, Gavin Leech et al.",arXiv,Extra: earlier or related work
+2023,Extra: Consciousness in Artificial Intelligence: Insights from the Science of Consciousness,https://arxiv.org/abs/2308.08708,"Patrick Butlin, Robert Long, Eric Elmoznino et al.",arXiv,Extra: earlier or related work
+2023,Extra: Measuring Faithfulness in Chain-of-Thought Reasoning,https://arxiv.org/abs/2307.13702,"Tamera Lanham, Anna Chen, Ansh Radhakrishnan et al.",arXiv,Extra: earlier or related work
+2023,Extra: Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting,https://arxiv.org/abs/2305.04388,"Miles Turpin, Julian Michael, Ethan Perez et al.",arXiv,Extra: earlier or related work
+2022,Extra: Language Models (Mostly) Know What They Know,https://arxiv.org/abs/2207.05221,"Saurav Kadavath, Tom Conerly, Amanda Askell et al.",arXiv,Extra: earlier or related work
+2024,Extra: The Edge of Sentience,https://doi.org/10.1093/9780191966729.001.0001,Jonathan Birch,Oxford University Press,Extra: background
+2016,Extra: Unexpected rewards induce dopamine-dependent positive emotion–like state changes in bumblebees,https://doi.org/10.1126/science.aaf4454,"Cwyn Solvi, Luigi Baciadonna, Lars Chittka",Science,Extra: background
+2011,Extra: Agitated Honeybees Exhibit Pessimistic Cognitive Biases,https://doi.org/10.1016/j.cub.2011.05.017,"Melissa Bateson, Suzanne Desire, Sarah E. Gartside et al.",Current Biology,Extra: background
+2009,Extra: Pain experience in hermit crabs?,https://doi.org/10.1016/j.anbehav.2009.01.028,"Robert W. Elwood, Mirjam Appel",Animal Behaviour,Extra: background
+2008,Extra: The Unreliability of Naive Introspection,https://doi.org/10.1215/00318108-2007-037,Eric Schwitzgebel,Philosophical Review,Extra: background
+2005,Extra: Failure to Detect Mismatches Between Intention and Outcome in a Simple Decision Task,https://doi.org/10.1126/science.1111709,"Petter Johansson, Lars Hall, Sverker Sikström et al.",Science,Extra: background
+2000,Extra: Self‐selection of the analgesic drug carprofen by lame broiler chickens,https://doi.org/10.1136/vr.146.11.307,"T. C. Danbury, C. A. Weeks, A. E. Waterman‐Pearson et al.",Veterinary Record,Extra: background
+1977,Extra: Telling more than we can know: Verbal reports on mental processes,https://doi.org/10.1037/0033-295X.84.3.231,"Richard E. Nisbett, Timothy D. Wilson",Psychological Review,Extra: background
